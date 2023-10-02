@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "description":"Hair Oil",
+      "id": "1",
+      "image":"../../assets/image/",
+      "price":122,
+      "title":"Cosmetics"
+    },
+    {
+      "description":"Face Wash",
+      "id": "1",
+      "image":"../../assets/image/",
+      "price":123,
+      "title":"Cosmetics"
+    },
+    {
+      "description":"Hair Oil",
+      "id": "1",
+      "image":"../../assets/image/",
+      "price":122,
+      "title":"Cosmetics"
+    },
+    {
+      "description":"Face Wash",
+      "id": "1",
+      "image":"../../assets/image/",
+      "price":123,
+      "title":"Cosmetics"
+    },
+    {
+      "description":"Hair Oil",
+      "id": "1",
+      "image":"../../assets/image/",
+      "price":122,
+      "title":"Household"
+    },
+    {
+      "description":" Oil",
+      "id": "1",
+      "image":"../../assets/image/",
+      "price":122,
+      "title":"Household"
+    },
+    {
+      "description":"Gas",
+      "id": "1",
+      "image":"../../assets/image/",
+      "price":750,
+      "title":"Household"
+    },
+    {
+      "description":"Hair Oil",
+      "id": "1",
+      "image":"../../assets/image/",
+      "price":122,
+      "title":"Household"
+    }
+   
+   
+
+
+
+
+  ]
+  
+}

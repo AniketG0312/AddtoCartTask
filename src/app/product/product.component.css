@@ -1,0 +1,30 @@
+
+.card{
+
+width: 200px;
+height: 200px;
+margin-bottom: 25px;
+margin-left: 40px;
+transition: 0.3s ease-in-out;
+}
+/* .card:hover{
+    transition: 0.3s ease-in-out;
+    transform: scale(1.1);
+} */
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    padding: 20px;
+    min-width: 0;
+    border: none;
+}
+.row{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: 250px px;
+    
+    /* display: flex; */
+
+}
